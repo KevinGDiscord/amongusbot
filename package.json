@@ -1,0 +1,17 @@
+{
+  "name": "amongusbo",
+  "version": "1.0.0",
+  "description": "among us bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "KevinGorniak"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
